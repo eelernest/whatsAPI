@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
-const port = process.env.PORT || 8080; // Usa el puerto proporcionado por Railway o 3000 por defecto
+const port = process.env.PORT || 3000; // Usa el puerto proporcionado por Railway o 3000 por defecto
 /* const QRPortalWeb = require('@bot-whatsapp/portal') */
 
 
